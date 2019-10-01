@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    tools:context="com.seatup.activity.SplashScreen">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:src="@drawable/logo" />
+
+    <com.seatup.widgets.DButton
+        android:id="@+id/btnStartNow"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="@dimen/fourty"
+        android:background="@drawable/bg_button_red"
+        android:paddingLeft="@dimen/fifty"
+        android:paddingRight="@dimen/fifty"
+        android:text="@string/start_now"
+        android:textAllCaps="false"
+        android:textColor="@color/white"
+        android:textSize="@dimen/mediumsize"
+
+        />
+
+</RelativeLayout>

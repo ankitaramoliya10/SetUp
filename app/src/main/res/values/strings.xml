@@ -1,0 +1,29 @@
+<resources>
+
+    <string name="app_name">SeatUp</string>
+
+
+    <string name="password">Password</string>
+    <string name="required_password">Password Required</string>
+
+
+    <!--Splash Screen-->
+    <string name="start_now">Start Now</string>
+
+    <!--Internet Custom Dialog-->
+    <string name="title_no_internet">No Internet.!!</string>
+    <string name="msg_no_internet">There is no internet connection..!</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancel</string>
+
+    <!--Sign In-->
+    <string name="sign_in">Sign In</string>
+    <string name="email_id">Email ID</string>
+    <string name="forgot_paassword">Forgot Paassword?</string>
+    <string name="or">OR</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="email_id_required">Email ID Required</string>
+
+
+</resources>

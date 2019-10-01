@@ -1,0 +1,47 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="nav_header_vertical_spacing">16dp</dimen>
+    <dimen name="nav_header_height">160dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+
+    <!--Dimens For fixed size layout,pading,margin-->
+    <dimen name="one">@dimen/_1sdp</dimen>
+    <dimen name="two">@dimen/_2sdp</dimen>
+    <dimen name="three">@dimen/_3sdp</dimen>
+    <dimen name="four">@dimen/_4sdp</dimen>
+    <dimen name="five">@dimen/_5sdp</dimen>
+    <dimen name="seven">@dimen/_7sdp</dimen>
+    <dimen name="eight">@dimen/_8sdp</dimen>
+    <dimen name="ten">@dimen/_10sdp</dimen>
+    <dimen name="fifteen">@dimen/_15sdp</dimen>
+    <dimen name="twenty">@dimen/_20sdp</dimen>
+    <dimen name="twentyfive">@dimen/_25sdp</dimen>
+    <dimen name="thirty">@dimen/_30sdp</dimen>
+    <dimen name="thirtyfive">@dimen/_35sdp</dimen>
+    <dimen name="fourty">@dimen/_40sdp</dimen>
+    <dimen name="fourtyfive">@dimen/_45sdp</dimen>
+    <dimen name="fifty">@dimen/_50sdp</dimen>
+    <dimen name="fiftyfive">@dimen/_55sdp</dimen>
+    <dimen name="sixty">@dimen/_60sdp</dimen>
+    <dimen name="sixtyfive">@dimen/_65sdp</dimen>
+    <dimen name="seventy">@dimen/_70sdp</dimen>
+    <dimen name="eighty">@dimen/_80sdp</dimen>
+    <dimen name="ninety">@dimen/_90sdp</dimen>
+    <dimen name="hundred">@dimen/_100sdp</dimen>
+    <dimen name="hundredandten">@dimen/_110sdp</dimen>
+    <dimen name="hundredandfifty">@dimen/_150sdp</dimen>
+    <dimen name="twohundred">@dimen/_200sdp</dimen>
+    <dimen name="twohundredandfifty">@dimen/_250sdp</dimen>
+    <dimen name="threehundredand">@dimen/_300sdp</dimen>
+    <dimen name="dialog_width">@dimen/_250sdp</dimen>
+    <dimen name="dialog_height">@dimen/_300sdp</dimen>
+
+    <!--Text Size-->
+    <dimen name="smallsize">@dimen/_12sdp</dimen>
+    <dimen name="mediumsize">@dimen/_15sdp</dimen>
+    <dimen name="largesize">@dimen/_20sdp</dimen>
+    <dimen name="extralargesize">@dimen/_25sdp</dimen>
+
+</resources>

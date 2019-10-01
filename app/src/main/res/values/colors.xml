@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#fe2b4b</color>
+    <color name="colorAccent">#2fe1a0</color>
+
+    <color name="lightTextColor">#A0ACB3</color>
+    <color name="darkTextColor">#424344</color>
+    <color name="bgColor">#1DA1F3</color>
+    <color name="bgHeader">#F3F4F4</color>
+    <color name="bgKeyboard">#28adff</color>
+    <color name="bgButtonGreen">#2fe1a0</color>
+    <color name="bgButtonRed">#fe2b4b</color>
+
+    <color name="white">#ffffffff</color>
+    <color name="whiteTransperent">#50ffffff</color>
+    <color name="black">#ff000000</color>
+    <color name="red">#ffff0000</color>
+    <color name="transparent">#000000</color>
+    <color name="gmail">#d44837</color>
+    <color name="facebook">#3b5999</color>
+</resources>
